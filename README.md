@@ -1,5 +1,5 @@
-CS-360-10814-M01 Mobile Architecture and Programming
-Warehouse Hero
+#CS-360-10814-M01 Mobile Architecture and Programming
+##Warehouse Hero
 Warehouse Hero is an Android inventory management app I built to make tracking stock simple. The goal of the project was to create a functional mobile application that allows users to manage inventory without making the interface unnecessarily complicated.
 
 Users can create an account, log in, add inventory items, update item quantities, delete items, and view saved inventory information. The app also includes an optional SMS notification feature that users can enable or disable from the Notifications screen.
