@@ -75,9 +75,9 @@ Connects inventory data to the RecyclerView and controls how each inventory item
 
 Warehouse Hero uses the following optional permission:
 
-```text
+
 android.permission.SEND_SMS
-```
+
 
 The SMS permission is only used for the notification feature. If the user denies SMS permission, the main inventory features continue to work normally.
 
